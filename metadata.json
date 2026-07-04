@@ -1,0 +1,6 @@
+{
+  "name": "BitRelf",
+  "description": "Infrastructure de santé numérique nationale interconnectée pour le Bénin - Passeport médical crypté AES-256, blockchain Bitcoin OP_RETURN et micro-assurance Lightning Network sous le nom de BitRelf",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
